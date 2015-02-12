@@ -2,6 +2,9 @@
 
 file .po e .mo per localizzare in italiano il tema [Divi 2.0](http://www.elegantthemes.com/gallery/divi/) di [Elegant Themes](http://www.elegantthemes.com)
 
+## Utilizzo
+
+Copiare i due file `it_IT.po` e `it_IT.mo` nella cartella `lang` del tema.
 
 ## Copyright e licenza
 
